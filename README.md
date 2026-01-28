@@ -25,8 +25,33 @@ The goal of this project is to design and implement automated API tests that per
 It demonstrates **API request chaining**, where data from one response is extracted and reused in subsequent requests.
 
 ---
+---
 
+## 📊 Allure Report
+
+
+### Generate Report
+
+```
+mvn clean test
+
+allure generate allure-results -o allure-report --clean
+
+allure open allure-report
+```
+
+This will open a browser showing:
+
+* Test execution status
+* Pass/Fail summary
+* Error details
+* Test hierarchy
+
+as below
 <img width="1881" height="877" alt="image" src="https://github.com/user-attachments/assets/ed2f2fba-2d95-44f3-8b3d-8e85bf44e2fe" />
+<img width="1859" height="867" alt="image" src="https://github.com/user-attachments/assets/153c835b-2f69-4878-88ca-964b38bc6f3d" />
+
+---
 
 
 ## 🧰 Tech Stack
