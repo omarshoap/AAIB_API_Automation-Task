@@ -47,7 +47,7 @@ This will open a browser showing:
 
 as below
 <img width="1704" height="807" alt="image" src="https://github.com/user-attachments/assets/05666ea6-11b0-4357-94a7-e475854d91ee" />
-<img width="1704" height="807" alt="image" src="https://github.com/user-attachments/assets/c5aa40bd-129a-42d2-960f-f7a3d4cfa52f" />
+<img width="1704" height="807" alt="image" src="https://github.com/user-attachments/assets/b7333f38-f92a-4c64-977c-1ce499dd5823" />
 
 
 ---
