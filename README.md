@@ -1,7 +1,5 @@
 # AAIB_API_Automation-Task
 
-Here’s a clean **copy-paste ready README.md** 👇
-
 ---
 
 # 🚀 API Automation Framework – ReqRes User Workflow
@@ -72,9 +70,7 @@ as below
 src
  └── test
      ├── java
-     │   ├── base        → Base setup & Test Listeners
-     │   ├── tests       → API test classes
-     │   └── utils       → Reusable utilities (future use)
+     │   └── tests       → API test classes
      └── resources
          └── testng.xml  → Test suite configuration
 ```
