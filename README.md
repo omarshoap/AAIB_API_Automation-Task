@@ -26,6 +26,9 @@ It demonstrates **API request chaining**, where data from one response is extrac
 
 ---
 
+<img width="1881" height="877" alt="image" src="https://github.com/user-attachments/assets/ed2f2fba-2d95-44f3-8b3d-8e85bf44e2fe" />
+
+
 ## 🧰 Tech Stack
 
 | Tool             | Purpose                       |
